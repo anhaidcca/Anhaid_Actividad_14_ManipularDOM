@@ -13,8 +13,3 @@ const btn = document.getElementById("btnSumar");
 
 btn.addEventListener("click",suma);
 
-/*
-Note que la funcion suma no tiene los parentesis, ya que en este caso no queremos que la funcion
-se ejecute inmediatamente, si no que, estamos esperando que el usuario de clic en el boton para 
-luego llamar la funcion.
-*/ 
